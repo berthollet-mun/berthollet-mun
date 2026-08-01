@@ -68,8 +68,6 @@ Mon parcours a commencé avec une véritable passion pour la programmation et la
 
 ---
 
----
-
 ## 🛠️ Technologies et outils
 
 <div align="center">
@@ -83,16 +81,11 @@ Mon parcours a commencé avec une véritable passion pour la programmation et la
 
 ---
 
----
-
-## 🤝 Travaillons ensemble
+## Travaillons ensemble
 
 <div align="center">
 
-Tu as une idée d’application, un projet technologique  
-ou une opportunité de collaboration ?
-
-### Construisons quelque chose d’utile et d’innovant.
+Tu as une idée d’application, un projet technologique ou une opportunité de collaboration ?
 
 <a href="mailto:tonadresse@email.com">
   <img
