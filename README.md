@@ -72,25 +72,15 @@ Mon parcours a commencé avec une véritable passion pour la programmation et la
 
 ## 🛠️ Technologies et outils
 
+<div align="center">
+
 <img
   src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark"
-  alt="Technologies mobiles"
-/>
-<img
   src="https://skillicons.dev/icons?i=react,js,html,css,php&theme=dark"
-  alt="Technologies web"
-/>
-
-<img
   src="https://skillicons.dev/icons?i=firebase,supabase,mysql,sqlite&theme=dark"
-  alt="Backend et bases de données"
-/>
-
-<img
   src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"
-  alt="Outils de développement"
+  alt="Technologies"
 />
-
 </div>
 
 ---
