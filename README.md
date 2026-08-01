@@ -7,7 +7,7 @@
   width="100%"
 />
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Passionn%C3%A9+de+technologie+et+d%27automatisation;Cr%C3%A9ateur+d%27exp%C3%A9riences+mobiles+modernes;Apprendre+%E2%80%A2+Partager+%E2%80%A2+Inspirer"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Passionn%C3%A9+de+technologie+et+d%27automatisation;Cr%C3%A9ateur+d%27exp%C3%A9riences+mobiles+modernes;Apprendre+%E2%80%A2+Partager+%E2%80%A2+Inspirer"
   alt="Présentation animée"
 />
 <a href="https://portofolio-blush-mu.vercel.app" target="_blank">
@@ -30,14 +30,10 @@
     alt="M’envoyer un e-mail"
   />
 </a>
-
-<br><br>
-
 <img
   src="https://komarev.com/ghpvc/?username=TON_PSEUDO_GITHUB&label=Visiteurs&color=0969DA&style=flat-square"
   alt="Nombre de visiteurs"
 />
-
 </div>
 
 ---
