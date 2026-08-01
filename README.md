@@ -55,36 +55,18 @@
 
 ---
 
-## 👨‍💻 À propos de moi
+## À propos de moi
 
-Je suis **développeur et ingénieur mobile**, animé par une passion profonde pour la technologie, l’innovation et l’automatisation.
+Mon parcours a commencé avec une véritable passion pour la programmation et la création de solutions numériques.
 
-Je conçois des applications mobiles **modernes, performantes et accessibles**, avec une attention particulière portée à l’expérience utilisateur et à la qualité du code. J’aime transformer des idées ambitieuses en solutions numériques simples, utiles et concrètes.
-
-Mon parcours repose sur trois principes :
-
-> **Apprendre continuellement • Partager mes connaissances • Inspirer par la création**
-
-- 📱 **Développement mobile :** création d’applications modernes et multiplateformes
-- ⚙️ **Automatisation :** simplification des processus et des tâches répétitives
-- 🤖 **Intelligence artificielle :** exploration des agents IA et des workflows intelligents
-- 🎨 **Expérience utilisateur :** conception d’interfaces intuitives, fluides et accessibles
-- 🌱 **Apprentissage actuel :** Flutter, architecture logicielle, IA et automatisation
-- 🤝 **Collaboration :** ouvert aux projets innovants et aux nouvelles opportunités
-- 💡 **Ambition :** créer des produits numériques qui apportent une réelle valeur
+- 🔭 **Projet actuel :** développement de mon application
+- 🎓 **Formation :** étudiant en informatique
+- 📱 **Spécialité :** développement mobile et web
+- 🤖 **Intérêts :** intelligence artificielle et automatisation
+- 🌱 **Apprentissage :** Flutter, React et Python
+- 💬 **Contact :** disponible pour collaborer sur de nouveaux projets
 
 ---
-
-## 🎯 Ma vision
-
-<div align="center">
-
-### « La technologie prend tout son sens lorsqu’elle améliore réellement la vie des personnes. »
-
-Je souhaite construire des solutions qui associent  
-**innovation, simplicité, performance et impact positif.**
-
-</div>
 
 ---
 
@@ -98,28 +80,15 @@ Je souhaite construire des solutions qui associent
   src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark"
   alt="Technologies mobiles"
 />
-
-<br><br>
-
-### Développement web
-
 <img
   src="https://skillicons.dev/icons?i=react,js,html,css,php&theme=dark"
   alt="Technologies web"
 />
 
-<br><br>
-
-### Backend et bases de données
-
 <img
   src="https://skillicons.dev/icons?i=firebase,supabase,mysql,sqlite&theme=dark"
   alt="Backend et bases de données"
 />
-
-<br><br>
-
-### Outils de développement
 
 <img
   src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"
