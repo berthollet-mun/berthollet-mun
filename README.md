@@ -11,8 +11,6 @@
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Passionn%C3%A9+de+technologie+et+d%27automatisation;Cr%C3%A9ateur+d%27exp%C3%A9riences+mobiles+modernes;Apprendre+%E2%80%A2+Partager+%E2%80%A2+Inspirer"
   alt="Présentation animée"
 />
-
-<br>
 <a href="https://ton-portfolio.com">
   <img
     src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"
@@ -31,9 +29,6 @@
     alt="bertholletmunihire@gmail.com"
   />
 </a>
-
-<br><br>
-
 <img
   src="https://komarev.com/ghpvc/?username=TON_PSEUDO&label=Visiteurs&color=0969DA&style=flat-square"
   alt="Nombre de visiteurs"
@@ -77,8 +72,6 @@ Tu as une idée d’application, un projet technologique ou une opportunité de 
     alt="Me contacter"
   />
 </a>
-
-<br><br>
 
 **Apprendre • Partager • Inspirer**
 
