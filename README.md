@@ -72,10 +72,6 @@ Mon parcours a commencé avec une véritable passion pour la programmation et la
 
 ## 🛠️ Technologies et outils
 
-<div align="center">
-
-### Développement mobile
-
 <img
   src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark"
   alt="Technologies mobiles"
