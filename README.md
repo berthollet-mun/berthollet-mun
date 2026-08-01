@@ -13,31 +13,22 @@
 />
 
 <br>
-
-<!-- Badges de contact -->
-
 <a href="https://ton-portfolio.com">
   <img
     src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"
-    alt="Portfolio"
+    alt="[Portfolio](https://portofolio-blush-mu.vercel.app)"
   />
 </a>
 <a href="https://linkedin.com/in/ton-profil">
   <img
     src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-<a href="https://youtube.com/@ta-chaine">
-  <img
-    src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-    alt="YouTube"
+    alt="https://www.linkedin.com/in/ berthollet-mun-933545296"
   />
 </a>
 <a href="mailto:tonadresse@email.com">
   <img
     src="https://img.shields.io/badge/Me%20contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="E-mail"
+    alt="bertholletmunihire@gmail.com"
   />
 </a>
 
