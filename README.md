@@ -30,10 +30,6 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=2
     alt="M’envoyer un e-mail"
   />
 </a>
-<img
-  src="https://komarev.com/ghpvc/?username=TON_PSEUDO_GITHUB&label=Visiteurs&color=0969DA&style=flat-square"
-  alt="Nombre de visiteurs"
-/>
 </div>
 
 ---
