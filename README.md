@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2188ff&height=180&section=header&text=AI%20Agents%20Creator&fontSize=42&fontColor=2188ff&fontAlignY=35"
+  src="type=waving&color=0:0d1117,100:2188ff&height=180&section=header&text=AI%20Agents%20Creator&fontSize=42&fontColor=2188ff&fontAlignY=35"
   width="100%"
 />
 
