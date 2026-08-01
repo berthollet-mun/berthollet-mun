@@ -75,74 +75,13 @@ Mon parcours a commencé avec une véritable passion pour la programmation et la
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark"
-  src="https://skillicons.dev/icons?i=react,js,html,css,php&theme=dark"
-  src="https://skillicons.dev/icons?i=firebase,supabase,mysql,sqlite&theme=dark"
-  src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"
+  src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,react,js,html,css,php,mysql,sqlite,git,github,vscode&theme=dark"
   alt="Technologies"
 />
+
 </div>
 
 ---
-
-## 🚀 Ce que je construis
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 📱 Applications mobiles
-
-Des applications rapides, modernes et adaptées aux besoins réels des utilisateurs.
-
-- Interfaces intuitives
-- Architecture évolutive
-- Expérience multiplateforme
-- Performances optimisées
-
-  </td>
-  <td width="50%" valign="top">
-
-### 🤖 Solutions automatisées
-
-Des workflows intelligents qui permettent de gagner du temps et de travailler efficacement.
-
-- Automatisation de processus
-- Intégration d’intelligence artificielle
-- Agents conversationnels
-- Outils de productivité
-
-  </td>
-  </tr>
-</table>
-
----
-
-## 📊 Mes statistiques GitHub
-
-<div align="center">
-
-<img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&locale=fr"
-  alt="Statistiques GitHub"
-/>
-
-<img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=fr"
-  alt="Langages les plus utilisés"
-/>
-
-<br><br>
-
-<img
-  width="70%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=TON_PSEUDO&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
-  alt="Série de contributions GitHub"
-/>
-
-</div>
 
 ---
 
