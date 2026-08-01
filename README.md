@@ -79,10 +79,6 @@ Mon parcours a commencé avec une véritable passion pour la programmation et la
 
 </div>
 
----
-
-## Travaillons ensemble
-
 <div align="center">
 
 Tu as une idée d’application, un projet technologique ou une opportunité de collaboration ?
