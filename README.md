@@ -5,7 +5,7 @@
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:58A6FF&height=220&section=header&text=D%C3%A9veloppeur%20%26%20Ing%C3%A9nieur%20Mobile&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=Concevoir%20%E2%80%A2%20Automatiser%20%E2%80%A2%20Innover&descSize=18&descAlignY=58&animation=fadeIn"
   width="100%"
-  alt=""
+  alt="Bannière Développeur Mobile"
 />
 
 <!-- Texte animé -->
