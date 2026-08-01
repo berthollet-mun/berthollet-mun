@@ -3,17 +3,13 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2188ff&height=180&section=header&text=AI%20Agents%20Creator&fontSize=42&fontColor=2188ff&fontAlignY=35"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2188ff&height=180&section=header&text=&fontSize=42&fontColor=2188ff&fontAlignY=35"
   width="100%"
 />
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Passionn%C3%A9+de+technologie+et+d%27automatisation;Cr%C3%A9ateur+d%27exp%C3%A9riences+mobiles+modernes;Apprendre+%E2%80%A2+Partager+%E2%80%A2+Inspirer"
   alt="Présentation animée"
 />
-<!-- ===================================================== -->
-<!--                 LIENS PROFESSIONNELS                  -->
-<!-- ===================================================== -->
-
 <a href="https://portofolio-blush-mu.vercel.app" target="_blank">
   <img
     src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"
