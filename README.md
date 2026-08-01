@@ -1,22 +1,15 @@
-<!-- ===================================================== -->
-<!--                    BANNIÈRE                           -->
-<!-- ===================================================== -->
+<!-- Bannière principale -->
 
 <div align="center">
 
 <img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2188ff&height=180&section=header&text=AI%20Agents%20Creator&fontSize=42&fontColor=2188ff&fontAlignY=35"
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:58A6FF&height=220&section=header&text=D%C3%A9veloppeur%20%26%20Ing%C3%A9nieur%20Mobile&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=Concevoir%20%E2%80%A2%20Automatiser%20%E2%80%A2%20Innover&descSize=18&descAlignY=58&animation=fadeIn"
-  alt="Développeur et ingénieur mobile"
 />
-
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Passionn%C3%A9+de+technologie+et+d%27automatisation;Cr%C3%A9ateur+d%27exp%C3%A9riences+mobiles+modernes;Apprendre+%E2%80%A2+Partager+%E2%80%A2+Inspirer"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Passionn%C3%A9+de+technologie+et+d%27automatisation;Cr%C3%A9ateur+d%27exp%C3%A9riences+mobiles+modernes;Apprendre+%E2%80%A2+Partager+%E2%80%A2+Inspirer"
   alt="Présentation animée"
 />
-
-<br><br>
-
 <!-- ===================================================== -->
 <!--                 LIENS PROFESSIONNELS                  -->
 <!-- ===================================================== -->
@@ -53,126 +46,33 @@
 
 ---
 
-<!-- ===================================================== -->
-<!--                    À PROPOS                           -->
-<!-- ===================================================== -->
+## À propos de moi
 
-## 👨‍💻 À propos de moi
+Mon parcours a commencé avec une véritable passion pour la programmation et la création de solutions numériques.
 
-Je suis **développeur et ingénieur mobile**, passionné par la technologie, l’innovation et l’automatisation.
-
-Mon parcours a commencé avec une véritable passion pour la programmation et la création de solutions numériques. Aujourd’hui, je transforme des idées en applications **modernes, performantes et accessibles**, tout en accordant une attention particulière à l’expérience utilisateur et à la qualité du code.
-
-J’aime apprendre de nouvelles technologies, partager mes connaissances et construire des solutions capables d’avoir un impact concret.
-
-- 🔭 **Projet actuel :** développement de nouvelles applications mobiles
-- 🎓 **Formation :** étudiant en informatique et génie logiciel
-- 📱 **Spécialité :** développement mobile et web
-- 🤖 **Intérêts :** intelligence artificielle, agents IA et automatisation
-- 🎨 **Approche :** interfaces modernes, simples et intuitives
-- 🌱 **Apprentissage :** Flutter, React, Python et architecture logicielle
-- 🤝 **Collaboration :** ouvert aux projets innovants et aux nouvelles opportunités
-- 📧 **Contact :** [bertholletmunihire@gmail.com](mailto:bertholletmunihire@gmail.com)
+* 🔭 **Projet actuel :** développement de mon application
+* 🎓 **Formation :** étudiant en informatique
+* 📱 **Spécialité :** développement mobile et web
+* 🤖 **Intérêts :** intelligence artificielle et automatisation
+* 🌱 **Apprentissage :** Flutter, React et Python
+* 💬 **Contact :** disponible pour collaborer sur de nouveaux projets [bertholletmunihire@gmail.com](mailto:bertholletmunihire@gmail.com)
 
 ---
-
-<!-- ===================================================== -->
-<!--                      VISION                           -->
-<!-- ===================================================== -->
-
-## 🎯 Ma vision
-
-<div align="center">
-
-### « Utiliser la technologie pour transformer des idées en solutions utiles. »
-
-**Apprendre continuellement • Partager mes connaissances • Inspirer par la création**
-
-</div>
-
----
-
-<!-- ===================================================== -->
-<!--             TECHNOLOGIES ET OUTILS                   -->
-<!-- ===================================================== -->
 
 ## 🛠️ Technologies et outils
 
 <div align="center">
 
-### 📱 Développement mobile
-
 <img
-  src="https://skillicons.dev/icons?i=flutter,dart&theme=dark"
-  alt="Flutter et Dart"
-/>
-
-<br><br>
-
-### 🌐 Développement web
-
-<img
-  src="https://skillicons.dev/icons?i=react,js,html,css,php&theme=dark"
-  alt="Technologies web"
-/>
-
-<br><br>
-
-### 🗄️ Backend et bases de données
-
-<img
-  src="https://skillicons.dev/icons?i=firebase,supabase,mysql,sqlite&theme=dark"
-  alt="Backend et bases de données"
-/>
-
-<br><br>
-
-### ⚙️ Outils de développement
-
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"
-  alt="Outils de développement"
+  src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,react,js,html,css,php,mysql,sqlite,git,github,vscode&theme=dark"
+  alt="Technologies"
 />
 
 </div>
 
----
-
-<!-- ===================================================== -->
-<!--                     PORTFOLIO                         -->
-<!-- ===================================================== -->
-
-## 🚀 Découvrir mes réalisations
-
 <div align="center">
 
-Retrouve mes applications, mes projets personnels et les technologies que j’utilise sur mon portfolio.
-
-<br>
-
-<a href="https://portofolio-blush-mu.vercel.app" target="_blank">
-  <img
-    src="https://img.shields.io/badge/D%C3%89COUVRIR%20MON%20PORTFOLIO-0969DA?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Découvrir mon portfolio"
-  />
-</a>
-
-</div>
-
----
-
-<!-- ===================================================== -->
-<!--                   COLLABORATION                       -->
-<!-- ===================================================== -->
-
-## 🤝 Travaillons ensemble
-
-<div align="center">
-
-Tu as une idée d’application, un projet technologique  
-ou une opportunité de collaboration ?
-
-### Construisons ensemble quelque chose d’utile et d’innovant.
+Tu as une idée d’application, un projet technologique ou une opportunité de collaboration ?
 
 <a href="mailto:bertholletmunihire@gmail.com">
   <img
@@ -188,13 +88,11 @@ ou une opportunité de collaboration ?
   />
 </a>
 
-<br><br>
-
-### Apprendre • Partager • Inspirer
+**Apprendre • Partager • Inspirer**
 
 <img
-  width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:0969DA,100:0D1117&height=120&section=footer"
+  width="100%"
   alt="Pied de page"
 />
 
