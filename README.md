@@ -42,7 +42,7 @@ Mon parcours a commencé avec une véritable passion pour la programmation et la
 * 🎓 **Formation :** étudiant en informatique
 * 📱 **Spécialité :** développement mobile et web
 * 🤖 **Intérêts :** intelligence artificielle et automatisation
-* 🌱 **Apprentissage :** Flutter, React et Python
+* 🌱 **Apprentissage :** Flutter, React et Php
 * 💬 **Contact :** disponible pour collaborer sur de nouveaux projets [bertholletmunihire@gmail.com](mailto:bertholletmunihire@gmail.com)
 
 ---
